@@ -1,5 +1,7 @@
 # apiguisw
 
+É necessário ter instalado o node.js
+
 ## Project setup
 ```
 npm install -g @vue/cli
